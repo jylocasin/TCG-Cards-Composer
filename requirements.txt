@@ -1,0 +1,13 @@
+# GUI Framework
+customtkinter>=5.2.0
+
+# Image Processing
+Pillow>=10.0.0
+psd-tools>=1.9.24
+
+# PDF Generation
+reportlab>=4.0.4
+PyPDF2>=3.0.0
+
+# File Operation Utils
+pathlib>=1.0.1
